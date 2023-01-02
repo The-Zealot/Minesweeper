@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\main.cpp(32,26): warning C4101: ex: неиспользованная локальная переменная
+  Minesweeper v2.0.vcxproj -> C:\Users\Sensei\source\repos\Minesweeper v2.0\x64\Debug\Minesweeper v2.0.exe

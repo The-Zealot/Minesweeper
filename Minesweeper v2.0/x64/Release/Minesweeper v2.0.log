@@ -1,0 +1,39 @@
+﻿  GameEngine.cpp
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(16,16): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(17,15): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(35,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(38,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(39,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(57,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(71,17): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(72,16): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(82,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(85,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(86,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(104,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(117,18): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(122,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(123,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(157,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(158,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(206,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\GameEngine.cpp(207,21): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\main.cpp(103,13): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\main.cpp(104,13): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\main.cpp(149,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\main.cpp(149,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Sensei\source\repos\Minesweeper v2.0\Minesweeper v2.0\main.cpp(169,26): warning C4101: ex: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Minesweeper v2.0.vcxproj -> C:\Users\Sensei\source\repos\Minesweeper v2.0\x64\Release\Minesweeper v2.0.exe
